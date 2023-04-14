@@ -1,4 +1,4 @@
-var config = {
+let config = {
     type: Phaser.AUTO,
     width: 800,
     height: 600,
@@ -17,13 +17,13 @@ var config = {
     }
 };
 
-var game = new Phaser.Game(config);
+let game = new Phaser.Game(config);
 
 //variable declaration block
-var map;
-var layer;
-var player;
-var cursors;
+let map;
+let layer;
+let player;
+let cursors;
 
 
 
