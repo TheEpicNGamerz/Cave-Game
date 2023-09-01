@@ -1,7 +1,7 @@
 body {
   padding: 0px;
   margin: 0px;
-  background: rgb(38, 38, 38);
+  background: #352F44;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -9,6 +9,18 @@ body {
   border-radius: 10px;
 }
 body .title {
-  color: aliceblue;
+  color: #FAF0E6;
   text-align: center;
+}
+
+.background {
+  background-color: #5C5470;
+  border-radius: 10px;
+  padding: 20px;
+  border-style: ridge;
+  border-color: #B9B4C7;
+}
+.background .banner {
+  background-color: #B9B4C7;
+  border-radius: 5px;
 }/*# sourceMappingURL=website.css.map */

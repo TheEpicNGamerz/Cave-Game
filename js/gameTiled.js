@@ -2,7 +2,7 @@ let config = {
     type: Phaser.AUTO,
     width: 800,
     height: 600,
-    backgroundColor: '#AAD4EA',
+    backgroundColor: '#117F08',
     parent: "gameTime", // ID of the DOM element to add the canvas to
     physics: {
         default: 'arcade',
